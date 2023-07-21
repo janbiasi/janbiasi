@@ -16,14 +16,18 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@master
+      - name: Generate contribution stats image
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: assets/img/github-contribution-grid-snake.svg
+          outputs: |
+            assets/img/github-contrib-snake.svg
+            assets/img/github-contrib-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.5.0
+      - name: Push assets to Docs branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: docs
           build_dir: assets/img/
