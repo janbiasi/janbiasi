@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm Jan Biasi, 26 years old based in Switzerland.
+I'm Jan Biasi, 27 years old based in Switzerland.
 
 - 🔭 Building banking software
 - 👯 I’m looking to collaborate on OSS
