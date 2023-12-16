@@ -6,6 +6,7 @@ I'm Jan Biasi, 27 years old based in Switzerland.
 - 👯 I’m looking to collaborate on OSS
 - 🌱 I’m currently learning Rust & Go
 - 📫 Reach me on [twitter](https://twitter.com/janbiasi), [facebook](https://facebook.com/janbiasi/) or [instagram](https://instagram.com/__giuvan)
+- 🔐 Verification information available on [keybase](https://keybase.io/janbiasi)
 
 <!-- <p align="left">
     <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=janbiasi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=222222" />
