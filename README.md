@@ -3,8 +3,9 @@
 I'm Jan Biasi, 27 years old based in Switzerland.
 
 - 🔭 Building banking software
+- 🚀 Co-founded [seekme.io](https://seekme.io)
 - 👯 I’m looking to collaborate on OSS
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust & Nix
 - 📫 Reach me on [twitter](https://twitter.com/janbiasi), [facebook](https://facebook.com/janbiasi/) or [instagram](https://instagram.com/__giuvan)
 
 <!-- <p align="left">
