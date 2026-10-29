@@ -1,6 +1,4 @@
-### Hello there! 👋
-
-I'm Jan Biasi, 29 years old based in Switzerland.
+### Hello there! 👋🇨🇭
 
 - 🔭 Building banking software
 - ❤️ Writing Go, React and TypeScript
